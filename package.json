@@ -1,0 +1,19 @@
+{
+  "name": "splendid-coriander",
+  "version": "1.0.0",
+  "description": "<img src=\"https://themes.stackbit.com/images/starter-demo-1024x768.png\" width=\"600\">",
+  "main": "inject-stackbit-widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalocean-stackbit/splendid-coriander.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalocean-stackbit/splendid-coriander/issues"
+  },
+  "homepage": "https://github.com/digitalocean-stackbit/splendid-coriander#readme"
+}
