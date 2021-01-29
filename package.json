@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/digitalocean-stackbit/splendid-coriander/issues"
   },
-  "homepage": "https://github.com/digitalocean-stackbit/splendid-coriander#readme"
+  "homepage": "https://github.com/digitalocean-stackbit/splendid-coriander#readme",
+  "dependencies": {
+    "sourcebit": "^0.10.0"
+  }
 }
